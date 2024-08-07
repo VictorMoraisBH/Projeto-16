@@ -1,0 +1,16 @@
+{
+  "name": "projeto-16",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo com Babel",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/cli": "^7.21.0",
+    "@babel/preset-env": "^7.21.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
